@@ -10,7 +10,7 @@
 > ⚠️ **Citation Notice:** This repository contains the official implementation
 > of the manuscript submitted to The Visual Computer (Springer).
 > If you use this code or build upon this work, please cite our paper using the
-> BibTeX entry provided at the bottom of this README.
+> DOI entry provided at the bottom of this README.
 
 ---
 
@@ -307,7 +307,7 @@ All hyperparameters are in `config.py`.
 
 ## Citation
 
-If you use this code in your research, please cite our paper. 
+If you use this code in your research, please cite our paper. DOI: 10.5281/zenodo.18804645
 
 ---
 
