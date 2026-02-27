@@ -8,7 +8,7 @@
 ---
 
 > ⚠️ **Citation Notice:** This repository contains the official implementation
-> of the manuscript submitted to / published in **The Visual Computer (Springer)**.
+> of the manuscript submitted to The Visual Computer (Springer).
 > If you use this code or build upon this work, please cite our paper using the
 > BibTeX entry provided at the bottom of this README.
 
@@ -22,7 +22,6 @@ This is the official PyTorch implementation of:
 
 *Maitreyee Ganguly, Paramita Dey*
 *Department of Information Technology, Government College of Engineering & Ceramic Technology, Kolkata, India*
-*The Visual Computer, Springer, 2025*
 
 We propose an interpretable multimodal rumour detection framework that combines:
 
