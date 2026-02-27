@@ -18,7 +18,7 @@
 
 This is the official PyTorch implementation of:
 
-**"Gated Consistency and Uncertainty-Aware Fusion: An Interpretable Framework for Multimodal Rumour Detection"**
+**"Gated Consistency and Uncertainty-Aware Fusion: An Interpretable Framework for Multimodal Rumour Detection"** submitted to The Visual Computer (Springer) journal. 
 
 *Maitreyee Ganguly, Paramita Dey*
 *Department of Information Technology, Government College of Engineering & Ceramic Technology, Kolkata, India*
