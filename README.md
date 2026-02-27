@@ -141,7 +141,7 @@ Interpretable-Multimodal-Rumour-Detection/
 ```bash
 # 1. Clone the repository
 git clone https://github.com/YOUR_USERNAME/Interpretable-Multimodal-Rumour-Detection.git
-cd Interpretable-Multimodal-Rumour-Detection
+cd An-Interpretable-Framework-for-Multimodal-Rumour-Detection
 
 # 2. Create virtual environment
 python -m venv venv
@@ -171,7 +171,7 @@ python -m spacy download en_core_web_sm
 
 ## Dataset
 
-This work uses the **MiRAGeNews** dataset, publicly available on HuggingFace:
+This work uses the MiRAGeNews dataset, publicly available on HuggingFace:
 
 ```python
 from datasets import load_dataset
