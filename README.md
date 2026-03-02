@@ -307,7 +307,7 @@ All hyperparameters are in `config.py`.
 
 ## Citation
 
-If you use this code in your research, please cite our paper. DOI: 10.5281/zenodo.18804645
+If you use this code in your research, please cite our paper. DOI: 10.5281/zenodo.18807718
 
 ---
 
