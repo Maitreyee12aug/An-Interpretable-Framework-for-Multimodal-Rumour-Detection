@@ -8,7 +8,7 @@
 ---
 
 > ⚠️ **Citation Notice:** This repository contains the official implementation
-> of the manuscript submitted to The Visual Computer (Springer).
+> of the manuscript "Gated Consistency and Uncertainty-Aware Fusion: An Interpretable Framework for Multimodal Rumour Detection".
 > If you use this code or build upon this work, please cite our paper using the
 > DOI entry provided at the bottom of this README.
 
